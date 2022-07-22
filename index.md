@@ -10,3 +10,6 @@ const greeting = "hello";
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] This is not complete
+- [x] This is complete
